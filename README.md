@@ -6,9 +6,10 @@ With hands-on experience managing and securing IT infrastructure, I am passionat
 My goal is to continuously expand my knowledge in cybersecurity while leveraging my IT expertise to protect digital assets and ensure robust security for organizations.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a dedicated IT administrator with expertise in networking and Windows environments, I am eager to transition into the field of cybersecurity.
+My objective is to apply my technical skills and experience in managing IT infrastructure to protect organizations from emerging threats.
+I aim to deepen my knowledge in areas such as network security, incident response, and vulnerability management, ultimately contributing to a secure and resilient digital environment.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
