@@ -50,8 +50,8 @@ I aim to deepen my knowledge in areas such as network security, incident respons
 
 **ISC² Certified in Cybersecurity**
   - Issued: June,2023
-  - Credential ID:
-  - [Link to Credential](https://www.isc2.org/Certifications/CSSP) (if you have a link to the certification verification)
+  - Credential ID:1582634
+  - [Link to Credential](https://www.credly.com/badges/a10ef963-dc97-4169-8e61-595f6547efe1)
 
 ## Projects
 - Detection Lab
