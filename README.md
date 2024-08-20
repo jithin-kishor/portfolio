@@ -63,7 +63,7 @@ I aim to deepen my knowledge in areas such as network security, incident respons
 ## Certifications
 
 **ISC² Certified in Cybersecurity**
-  - Issued: [Month, Year]
+  - Issued: [June,2023]
   - Credential ID: [Your Credential ID, if applicable]
   - [Link to Credential](https://www.isc2.org/Certifications/CSSP) (if you have a link to the certification verification)
 
