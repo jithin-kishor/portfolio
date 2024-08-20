@@ -47,23 +47,16 @@ I aim to deepen my knowledge in areas such as network security, incident respons
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+
+**ISC² Certified in Cybersecurity**
+  - Issued: June,2023
+  - Credential ID:
+  - [Link to Credential](https://www.isc2.org/Certifications/CSSP) (if you have a link to the certification verification)
 
 ## Projects
 - Detection Lab
 - SOC Automation Projec
 
-## Certifications
 
-**ISC² Certified in Cybersecurity**
-  - Issued: [June,2023]
-  - Credential ID: [Your Credential ID, if applicable]
-  - [Link to Credential](https://www.isc2.org/Certifications/CSSP) (if you have a link to the certification verification)
+
 
