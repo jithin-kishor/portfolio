@@ -49,9 +49,14 @@ I aim to deepen my knowledge in areas such as network security, incident respons
 ## Certifications
 
 **ISC² Certified in Cybersecurity**
-  - Issued: June,2023
-  - Credential ID:1582634
+  - Issued: **June,2023**
+  - Credential ID:**1582634**
   - [Link to the credential](https://www.credly.com/badges/a10ef963-dc97-4169-8e61-595f6547efe1)
+
+**Cisco Certified Network Associate-Routing and Switching**
+  - Issued: **July,2019**
+  - Credential ID:**CSCO13487840**
+  - [Link to the credential](https://www.credly.com/badges/4951e976-62c6-46ea-9b0e-e3bdd1493d09)
 
 ## Projects
 - Detection Lab
