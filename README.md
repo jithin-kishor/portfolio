@@ -58,6 +58,15 @@ I aim to deepen my knowledge in areas such as network security, incident respons
   - Credential ID:**CSCO13487840**
   - [Link to the credential](https://www.credly.com/badges/4951e976-62c6-46ea-9b0e-e3bdd1493d09)
 
+**Microsoft Certified: Azure Fundamentals**
+  - Issued: **March,2024**
+  - Credential ID:**DC394A7FD5946B52**
+  - [Link to the credential](https://learn.microsoft.com/api/credentials/share/en-us/JithinAKishor-1219/DC394A7FD5946B52?sharingId)
+
+**introduction to cybersecurity By Cisco**
+  - Issued: **July,2019**
+  - [Link to the credential](https://www.credly.com/badges/8c82afb0-8f5d-45f6-a5f4-d879fefd0164/public_url)
+
 ## Projects
 - Detection Lab
 - SOC Automation Projec
