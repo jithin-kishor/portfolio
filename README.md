@@ -1,5 +1,5 @@
 # Hello, I'm Jithin Kishor
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jithin-kishor-9526b614b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an enthusiastic cybersecurity professional with a strong background in IT administration, specializing in networking and Windows,Linux environments.
 With hands-on experience managing and securing IT infrastructure, I am passionate about transitioning into a full-time cybersecurity role where I can apply my skills in network security, threat detection, and system hardening.
