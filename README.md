@@ -58,4 +58,12 @@ I aim to deepen my knowledge in areas such as network security, incident respons
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
+- SOC Automation Projec
+
+## Certifications
+
+**ISC² Certified in Cybersecurity**
+  - Issued: [Month, Year]
+  - Credential ID: [Your Credential ID, if applicable]
+  - [Link to Credential](https://www.isc2.org/Certifications/CSSP) (if you have a link to the certification verification)
+
